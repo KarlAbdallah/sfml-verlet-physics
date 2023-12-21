@@ -3,6 +3,10 @@ sfml-verlet-physics is a C++ library that implements game engine physics using V
 
 This is <ins>not</ins> a fully featured engine, but rather a personnal challenge to create a physics engine with working collisions from scratch.
 
+# Example #
+Click to watch
+[![Video](https://img.youtube.com/vi/vh5EXcA9_PU/maxresdefault.jpg)](https://youtu.be/vh5EXcA9_PU)
+
 # Pre-requisites 
 This code requires the use of g++ v13.1.0 and SFML v2.6.0. More recent version of those libraries should be compatible, but were not tested. This code also makes uses the C++ Standard CPP23 (previous version should be compatible but again, weren't tested).
 
@@ -29,7 +33,3 @@ with \<SFML-PATH> being the path to your SFML library (e.g.: C:\SFML-2.6.0).
 * Use PageUp and PageDown to alter the mass of an object.
 * Left click creates an object with the displayed parameters on screen.
 * Escape exits the app.
-
-# Example #
-Click to watch
-[![Video](https://img.youtube.com/vi/vh5EXcA9_PU/maxresdefault.jpg)](https://youtu.be/vh5EXcA9_PU)
