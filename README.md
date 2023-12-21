@@ -29,3 +29,7 @@ with \<SFML-PATH> being the path to your SFML library (e.g.: C:\SFML-2.6.0).
 * Use PageUp and PageDown to alter the mass of an object.
 * Left click creates an object with the displayed parameters on screen.
 * Escape exits the app.
+
+# Example #
+Click to watch
+[![Video](https://img.youtube.com/vi/vh5EXcA9_PU/maxresdefault.jpg)](https://youtu.be/vh5EXcA9_PU)
