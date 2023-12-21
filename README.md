@@ -8,7 +8,7 @@ Click to watch
 [![Video](https://img.youtube.com/vi/vh5EXcA9_PU/maxresdefault.jpg)](https://youtu.be/vh5EXcA9_PU)
 
 # Pre-requisites 
-This code requires the use of g++ v13.1.0 and SFML v2.6.0. More recent version of those libraries should be compatible, but were not tested. This code also makes uses the C++ Standard CPP23 (previous version should be compatible but again, weren't tested).
+This code requires the use of g++ v13.1.0 and SFML v2.6.0. More recent versions of those libraries should be compatible, but were not tested. This code also makes uses the C++ Standard CPP23 (previous versions should be compatible but again, weren't tested).
 
 Both g++ and SFML will need to be added to PATH.
 
