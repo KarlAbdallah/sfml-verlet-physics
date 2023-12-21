@@ -8,7 +8,7 @@ This code requires the use of g++ v13.1.0 and SFML v2.6.0. More recent version o
 
 Both g++ and SFML will need to be added to PATH.
 
-# Usage
+# Compiling #
 ## Using VS Code ##
 To compile and run using VS Code, open the entire project in VS Code and press the 'Run C\C++ File' button inside the 'src\main.cpp' file (make sure to have the C\C++ extension installed on VS Code).
 
@@ -23,3 +23,9 @@ with \<SFML-PATH> being the path to your SFML library (e.g.: C:\SFML-2.6.0).
 ```
 .\build\sfml-verlet-physics.exe
 ```
+
+# Usage #
+* Use the arrows on your keyboard (Up, Down, Right, Left) to provide initial velocity to the objects.
+* Use PageUp and PageDown to alter the mass of an object.
+* Left click creates an object with the displayed parameters on screen.
+* Escape exits the app.
